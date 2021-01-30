@@ -1,3 +1,3 @@
 import './module.js'
 
-comsole.log('working');
+console.log('working');
